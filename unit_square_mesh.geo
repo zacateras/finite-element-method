@@ -35,3 +35,7 @@ Curve Loop(1) = {2, 3, 4, 1};
 Plane Surface(1) = {1};
 //+
 Characteristic Length {1, 2, 3, 4} = 0.1;
+//+
+Characteristic Length {2, 3, 4, 1} = 0.01;
+//+
+Characteristic Length {2, 3, 4, 1} = 0.03;
